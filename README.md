@@ -10,8 +10,6 @@ This Python project is a basic desktop assistant that allows users to perform va
 Voice Commands: Users can interact with the assistant using voice commands.
 Task Execution: The assistant can perform tasks such as opening Chrome, YouTube, Gmail, and playing music based on user commands.
 Basic AI Capabilities: Uses basic artificial intelligence techniques to understand and respond to voice commands.
-Requirements
-Python 3.x
 Required Python libraries (listed in Requirements)
 
 
