@@ -26,4 +26,4 @@ pip install wikipedia<br/>
 And Etc<br/>
 
 **Inspiration**<br/>
-This project was inspired by a YouTube tutorial by CodeWithHarry. You can find the tutorial
+This project was inspired by a YouTube tutorial by CodeWithHarry.
