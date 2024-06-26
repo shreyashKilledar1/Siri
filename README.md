@@ -23,6 +23,7 @@ pip install wikipedia<br/>
 "Open YouTube": Opens the YouTube website.<br/>
 "Open Gmail": Opens the Gmail website.<br/>
 "Play music": Starts playing music (provide specifics if applicable).<br/>
+And Etc<br/>
 
 **Inspiration**<br/>
 This project was inspired by a YouTube tutorial by CodeWithHarry. You can find the tutorial
