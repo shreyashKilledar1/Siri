@@ -10,9 +10,9 @@ Basic AI Capabilities: Uses basic artificial intelligence techniques to understa
 <br/>
 **Requirements**<br/>
 Python 3.x<br/>
-Required Python libraries (listed in Requirements)<br/>
+Required Python libraries (listed in Libraries Required)<br/>
 
-**Requirements**<br/>
+**Libraries Required:**<br/>
 pip install -r requirements<br/>
 pip install pyttsx3<br/>
 pip install speechRecognition<br/>
